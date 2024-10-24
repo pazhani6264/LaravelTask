@@ -1,0 +1,23 @@
+<svg id="instagram_8_" data-name="instagram (8)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.243" height="32.243" viewBox="0 0 32.243 32.243">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8e4a2a"/>
+      <stop offset="1" stop-color="#975e4d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_889" data-name="Group 889" transform="translate(24.711 5.966)">
+    <g id="Group_888" data-name="Group 888">
+      <path id="Path_4200" data-name="Path 4200" d="M393.184,94.739a.783.783,0,1,0,.783.783A.784.784,0,0,0,393.184,94.739Z" transform="translate(-392.401 -94.739)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Group_891" data-name="Group 891" transform="translate(9.182 9.182)">
+    <g id="Group_890" data-name="Group 890">
+      <path id="Path_4201" data-name="Path 4201" d="M152.743,145.8a6.94,6.94,0,1,0,6.94,6.94A6.947,6.947,0,0,0,152.743,145.8Z" transform="translate(-145.804 -145.804)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Group_893" data-name="Group 893">
+    <g id="Group_892" data-name="Group 892">
+      <path id="Path_4202" data-name="Path 4202" d="M23.4,0H8.839A8.849,8.849,0,0,0,0,8.839V23.4a8.849,8.849,0,0,0,8.839,8.839H23.4A8.849,8.849,0,0,0,32.243,23.4V8.839A8.849,8.849,0,0,0,23.4,0ZM16.121,24.965a8.844,8.844,0,1,1,8.844-8.844A8.854,8.854,0,0,1,16.121,24.965ZM25.494,9.436a2.687,2.687,0,1,1,2.687-2.687A2.69,2.69,0,0,1,25.494,9.436Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

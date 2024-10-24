@@ -1,0 +1,9 @@
+<svg id="linkedin-logo_1_" data-name="linkedin-logo (1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.518" height="35.851" viewBox="0 0 37.518 35.851">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8e4a2a"/>
+      <stop offset="1" stop-color="#975e4d"/>
+    </linearGradient>
+  </defs>
+  <path id="LinkedIn" d="M37.518,31.538V45.409H29.477V32.467c0-3.251-1.163-5.47-4.074-5.47a4.4,4.4,0,0,0-4.126,2.942A5.5,5.5,0,0,0,21.01,31.9V45.409H12.966s.108-21.919,0-24.19h8.043v3.429c-.016.026-.038.053-.053.078h.053v-.078a7.986,7.986,0,0,1,7.249-4C33.55,20.65,37.518,24.108,37.518,31.538ZM4.552,9.558C1.8,9.558,0,11.363,0,13.737a4.166,4.166,0,0,0,4.445,4.182H4.5c2.805,0,4.55-1.859,4.55-4.182A4.178,4.178,0,0,0,4.552,9.558ZM.478,45.409H8.519V21.219H.478Z" transform="translate(0 -9.558)" fill="url(#linear-gradient)"/>
+</svg>
